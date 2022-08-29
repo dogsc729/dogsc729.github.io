@@ -2,23 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>shuyulin1998(at)gmail(dot)com</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I'm a fourth-year undergraduate student in the [Electrical Engineering Department](https://web.ee.ntu.edu.tw/eng/index.php) at [National Taiwan University](https://www.ntu.edu.tw/english/index.html). Planning to apply for graduate school in Electrical and Computer Engineering/ Computer Science in the USA.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+For academic research, I'm doing undergraduate project about Federated Learning on Person Re-ID under supervision of [Prof. Shao-Yi Chien](http://www.ee.ntu.edu.tw/bio1.php?id=101). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I currently work for [MIH Open EV Alliance](https://www.mih-ev.org/en/index/) as a Software Engineer Intern. Prior to joining MIH, I was a Data Center Intern at [Intel](https://www.intel.com/content/www/us/en/homepage.html) and FAE Intern at [Arrow Electronics](https://www.arrow.com/). 
