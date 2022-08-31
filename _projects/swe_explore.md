@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Federated Re-ID
-description: Federated Learning on Person Re-Identification
-img:
-importance: 1
-category: Research
+title: SWE Explore
+description: Full stack project for software engineer job seeker to check salaries, locations and other features worldwide.
+img: assets/img/sweexplore_background.png
+importance: 2
+category: Course Work
 ---
 
 Every project has a beautiful feature showcase page.

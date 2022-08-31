@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Bikesla
+description: A device on a bicycle with STM32 IoT Node.
+img: assets/img/bikesla_background.jpg
 importance: 1
-category: work
+category: Course Work
 ---
 
 Every project has a beautiful feature showcase page.
