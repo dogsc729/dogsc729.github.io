@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Bikesla
-description: A embedded system device on a bicycle with STM32 IoT Node.
-img: assets/img/bikesla_background.jpg
-github: https://github.com/dogsc729/Bikesla
+title: Federated Re-ID
+description: Federated Learning on Person Re-Identification
+img:
+github: https://github.com/dogsc729/Federated-Learning-on-Re-ID
 importance: 1
-category: Course Work
+category: Research
 ---
 
 Every project has a beautiful feature showcase page.

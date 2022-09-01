@@ -3,6 +3,7 @@ layout: page
 title: SWE Explore
 description: Full stack project for software engineer job seeker to check salaries, locations and other features worldwide.
 img: assets/img/sweexplore_background.png
+github: https://github.com/dogsc729/Django-PostgreSQL-Rest-Api
 importance: 2
 category: Course Work
 ---
