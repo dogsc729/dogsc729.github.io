@@ -86,7 +86,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 blog_name: Shu-Yu Lin # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: fourth-year undergraduate EE student in Taiwan. This page is still under development.
+blog_description: Fourth-year undergraduate EE student in Taiwan. This page is still under development.
 permalink: /blog/:year/:title/
 
 # Pagination
