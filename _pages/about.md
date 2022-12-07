@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 # **林書宇**
 
-I'm a fourth-year undergraduate student in the [Electrical Engineering Department](https://web.ee.ntu.edu.tw/eng/index.php) at [National Taiwan University](https://www.ntu.edu.tw/english/index.html). Currently planning to apply for graduate school in Electrical and Computer Engineering/ Computer Science in the USA.
+I'm a fourth-year undergraduate student in the [Electrical Engineering Department](https://web.ee.ntu.edu.tw/eng/index.php) at [National Taiwan University](https://www.ntu.edu.tw/english/index.html). Currently applying to graduate school in Electrical and Computer Engineering/ Computer Science in the USA.
 
 For academic research, I'm doing undergraduate project about **Federated Learning on Person Re-ID** under supervision of [Prof. Shao-Yi Chien](http://www.ee.ntu.edu.tw/bio1.php?id=101). 
 
