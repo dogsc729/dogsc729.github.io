@@ -64,6 +64,7 @@ mkdir datasets
    * `--local_epoch`: You can change the number of epoch trained on each client model. The default value is `1`.
    * `lr_feature`: You can change the learning rate of the feature extraction layers of the model. The default value is `0.01`.
    * `lr_classifier`: You can change the learning rate of the classifier layers of the model. The default value is `0.1`.  
+    
     For example, You can run `python3 ./src/federated_train.py -s fed -l federated_test -m vanilla --local_epoch 5` to set your experiment on classic Federated Learning scenario, checkpoint location at `/checkpoint/federated_test`, using vanilla ResNet50 as your model and set the number of local epoch trained for each global round as `5`.
 
 ### Reference
