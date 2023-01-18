@@ -58,7 +58,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: dogsc729 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: shu-yu-lin-profile # your LinkedIn user name
+linkedin_username: shu-yu-lin-ntuee # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -86,7 +86,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 blog_name: Shu-Yu Lin # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Fourth-year undergraduate EE student in Taiwan. This page is still under development.
+blog_description: This page is still under development.
 permalink: /blog/:year/:title/
 
 # Pagination

@@ -5,7 +5,7 @@ description: Explore six municipality of Taiwan with our application!
 img:
 github: https://github.com/dogsc729/urban-travel-handbook
 importance: 3
-category: Course Work
+category: No
 ---
 
 Every project has a beautiful feature showcase page.

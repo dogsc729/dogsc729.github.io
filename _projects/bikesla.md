@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bikesla
-description: A embedded system device on a bicycle with STM32 IoT Node, connected to iPadOS App via Bluetooth.
+description: An embedded system device on a bicycle with STM32 IoT Node, connected to iPadOS App via Bluetooth.
 img: assets/img/bikesla_background.jpg
 github: https://github.com/dogsc729/Bikesla
 importance: 1
