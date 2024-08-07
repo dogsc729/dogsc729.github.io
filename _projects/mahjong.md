@@ -3,7 +3,7 @@ layout: page
 title: mahjong bingo
 description: A C++ project of Mahjong bingo game in the night market of Taiwan.
 img: assets/img/mahjong.png
-github: hhttps://github.com/dogsc729/NTUEE1101_Mahjong
+github: https://github.com/dogsc729/NTUEE1101_Mahjong
 importance: 1
 category: Course Work
 ---
